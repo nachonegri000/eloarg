@@ -1,0 +1,5 @@
+# This repo only serves index.html via GitHub Pages — it's fully self-contained
+# (all data embedded inline), so nothing else needs to be pushed here.
+*
+!.gitignore
+!index.html
